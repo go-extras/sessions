@@ -1,3 +1,5 @@
-module github.com/gorilla/sessions
+module github.com/go-extras/sessions
 
-require github.com/gorilla/securecookie v1.1.1
+go 1.20
+
+require github.com/go-extras/securecookie v1.0.0
